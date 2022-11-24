@@ -3,9 +3,9 @@
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
-    
+
     "require": {
-        "php": "^7.1",
+        "php": ">=8.0",
          "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^7.0",
         "kornrunner/keccak": "~1.0",
